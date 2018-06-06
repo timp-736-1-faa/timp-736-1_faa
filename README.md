@@ -43,3 +43,11 @@ stdout sorted array digits int type
 realization of shellcomb
 stdin count of elements n, array consisting n elements
 stdout sorted array digits int type
+736-1_faa-8-1.c
+realization of hoarcomb
+stdin count of elements n, array consisting n elements
+stdout sorted array digits int type
+736-1_faa-8-2.c
+realization of pyramidal sorting
+stdin count of elements n, array consisting n elements
+stdout sorted array digits int type
