@@ -26,4 +26,8 @@ stdout content of lits 5 times
 736-1_faa-4-1.c
 realization of queue
 stdin None
-stdout content of queue   
+stdout content of queue 
+736-1_faa-5-1.c
+realization of binary search tree
+stdin count of pairs digits , count*2 digits , 3 digits all of them is int type
+stdout 6 int digits
