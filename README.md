@@ -31,3 +31,7 @@ stdout content of queue
 realization of binary search tree
 stdin count of pairs digits , count*2 digits , 3 digits all of them is int type
 stdout 6 int digits
+736-1_faa-6-1.c
+realization of traversing the tree in breadth
+stdin count of digits pairs , count*2 digits
+stdout contents of tree
