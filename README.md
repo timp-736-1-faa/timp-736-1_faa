@@ -35,3 +35,11 @@ stdout 6 int digits
 realization of traversing the tree in breadth
 stdin count of digits pairs , count*2 digits
 stdout contents of tree
+736-1_faa-7-1.c
+realization of combsort
+stdin count of elements n, array connsisting n elements
+stdout sorted array digits int type
+736-1_faa-7-2.c
+realization of shellcomb
+stdin count of elements n, array consisting n elements
+stdout sorted array digits int type
