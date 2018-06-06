@@ -19,4 +19,7 @@ stdout 1 digit int
 sum of odd numbers
 stdin int digigt n , n double digits
 stdout double digit
-   
+736-1_faa-3-1.c
+realization of list 
+stdin int digit n , n int digits , 4 int digits
+stdout content of lits 5 times   
