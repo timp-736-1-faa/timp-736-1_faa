@@ -22,4 +22,8 @@ stdout double digit
 736-1_faa-3-1.c
 realization of list 
 stdin int digit n , n int digits , 4 int digits
-stdout content of lits 5 times   
+stdout content of lits 5 times
+736-1_faa-4-1.c
+realization of queue
+stdin None
+stdout content of queue   
